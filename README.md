@@ -1,2 +1,4 @@
 # demoproject
-new project
+this repository cosists a voting application project
+<br>
+author- samiksha
